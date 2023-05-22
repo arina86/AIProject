@@ -1,0 +1,4 @@
+Age,Vaccine Name,Population,Day 1 - Day 8,Day 9,Day 10 - Day 66,Day 67,Day 68 - Day 135,Day 136
+Age > 60,Vac-A,23893,2834,1221,0,0,0,0
+Age = 35-60,Vac-B,859900,2833,3639,4250,7754,8500,5593
+Age < 35,Vac-C,269300,2833,3640,4250,746,0,0
