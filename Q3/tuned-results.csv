@@ -1,0 +1,3 @@
+model,accuracy
+Bernoulli Naive Bayes with K=3,0.779
+Random Forest with K=2,0.779
